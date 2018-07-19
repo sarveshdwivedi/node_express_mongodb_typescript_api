@@ -1,4 +1,4 @@
-# Video-Mixer
+# Node Express Mongodb & Typescript api
 Micro service using node express mongodb typescript 
 
 ## Getting Started
