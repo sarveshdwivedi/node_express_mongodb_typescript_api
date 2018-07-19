@@ -34,6 +34,7 @@ After that, you should find out that you have a new folders in your project.
 We have preconfigured the project. The simplest way to start this server is:
 
 ```
+gulp build 
 npm start
 ```
 
